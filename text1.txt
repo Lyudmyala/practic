@@ -1,13 +1,11 @@
 hello 
 my name is 
 how are you
-<<<<<<< HEAD
 where are you from
  hola 
 mi nombre es
 como estas
-=======
  hola 
 mi nombre es
 como estas
->>>>>>> feature
+
