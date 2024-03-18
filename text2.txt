@@ -3,3 +3,4 @@ where are you from?
 what is your name?
 how old are you?
 Привет.
+Как дела?
